@@ -1,0 +1,9 @@
+D:\BLACK\BLACKRP\obj\Debug\BLACKRP.csproj.AssemblyReference.cache
+D:\BLACK\BLACKRP\obj\Debug\BLACKRP.csproj.CoreCompileInputs.cache
+D:\BLACK\BLACKRP\bin\Debug\BLACKRP.exe
+D:\BLACK\BLACKRP\bin\Debug\BLACKRP.pdb
+D:\BLACK\BLACKRP\bin\Debug\Newtonsoft.Json.dll
+D:\BLACK\BLACKRP\bin\Debug\websocket-sharp.dll
+D:\BLACK\BLACKRP\obj\Debug\BLACKRP.csproj.CopyComplete
+D:\BLACK\BLACKRP\obj\Debug\BLACKRP.exe
+D:\BLACK\BLACKRP\obj\Debug\BLACKRP.pdb

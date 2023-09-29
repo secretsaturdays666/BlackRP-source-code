@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLACKRP", "BLACKRP\BLACKRP.csproj", "{CA52D9FC-E5EA-467E-837F-1EAC8A8880DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA52D9FC-E5EA-467E-837F-1EAC8A8880DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA52D9FC-E5EA-467E-837F-1EAC8A8880DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA52D9FC-E5EA-467E-837F-1EAC8A8880DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA52D9FC-E5EA-467E-837F-1EAC8A8880DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
